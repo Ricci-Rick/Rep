@@ -11,7 +11,7 @@ def main(page: ft.Page):
         # Page theme
         ft.Container(
             content=ft.ElevatedButton("Page theme button"),
-            bgcolor=ft.Colors.BLUE_200,
+            bgcolor=ft.Colors.BLUE_100,
             padding=20,
             width=300,
         ),
